@@ -1,5 +1,5 @@
 {
-  "name": "test-1",
+  "name": "test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,15 +10,22 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "localforage": "^1.10.0",
-    "match-sorter": "^6.3.1",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.1",
+    "@mui/styled-engine": "^5.12.3",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "axios": "^1.4.0",
+    "formik": "^2.2.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
     "react-router": "^6.11.2",
     "react-router-dom": "^6.11.2",
     "sass": "^1.62.1",
-    "sort-by": "^1.2.0"
+    "styled-components": "^5.3.10",
+    "yup": "^1.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
